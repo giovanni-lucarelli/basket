@@ -6,7 +6,7 @@ ML project report:
 
 - [x] data wrangling
 - [x] model training
-- [ ] simple model assessment
-- [ ] learning tech. assessment
+- [x] simple model assessment
+- [x] learning tech. assessment
 - [ ] production of graphs and results
 - [ ] report
