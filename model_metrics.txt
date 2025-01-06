@@ -1,0 +1,20 @@
+Model: KNN
+accuracy: 0.6158445440956651
+precision_recall_auc: 0.65505743037772
+roc_auc: 0.60396233281776
+
+Model: NB
+accuracy: 0.5814648729446936
+precision_recall_auc: 0.6361756249256997
+roc_auc: 0.5903170776089528
+
+Model: Dummy
+accuracy: 0.5665171898355755
+precision_recall_auc: 0.7832585949177877
+roc_auc: 0.5
+
+Model: RF
+accuracy: 0.6150971599402093
+precision_recall_auc: 0.647286662108848
+roc_auc: 0.6062323719406787
+
